@@ -1,0 +1,77 @@
+body{
+    background-image: url(1600w-pYXVWPu5qYU.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section{
+    background-color: aliceblue;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+ 
+}
+
+.chev{
+
+    border: 5px solid salmon;
+}
+
+.nissan{
+    border: 5px solid green;
+}
+
+.mirage{
+    border: 5px solid blue;
+}
+
+#sect{
+
+    text-align: center;
+}
+
+h2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+form{
+
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.bor{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.bor1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+  
+    
+}
+
+.bor2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    
+}
+
+p{
+    text-decoration: wavy;
+    text-align: justify;
+    letter-spacing: 2px;
+    word-spacing: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+}
+
